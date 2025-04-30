@@ -1,3 +1,11 @@
+# Hospital Patient Record System
+Based on the readers' and writers' problems 
+- In a busy hospital, multiple doctors, medical laboratory technicians (MLTs), and nurses must access patient records.
+- Doctors can update patient records with diagnoses and prescriptions, while MLTs can provide test results. Nurses can view patient records to administer medications and monitor vitals.
+- Doctors and MLTs need exclusive access to records to avoid inconsistencies, while multiple nurses can read simultaneously without conflict.
+- The hospital patient record system must ensure that doctors/MTLs don't overwrite while nurses are reading and that no one waits forever to access the system. (# This is updated from the first one)
+
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
